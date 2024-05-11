@@ -2,7 +2,7 @@
 
 Este é um exemplo de implementação de um sistema CRUD (Create, Read, Update, Delete) em JavaScript, utilizando manipulação do DOM para interação com o usuário.
 
-## Tecnologias
+## 💻 Tecnologias
  [![Static Badge](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=E34F26&labelColor=black)](#) [![Static Badge](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=black)](#) [![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=black)](#) 
 
 ## Funcionalidades
