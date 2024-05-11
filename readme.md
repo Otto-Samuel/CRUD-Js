@@ -49,4 +49,7 @@ Abra o navegador e acesse http://localhost:8000 (ou outra porta conforme configu
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este exemplo.
 
 ## Licença
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 Este projeto está licenciado sob a Licença MIT.
